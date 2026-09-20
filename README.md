@@ -240,4 +240,4 @@ This repository serves as the official landing page for Daminion. The software i
 **Get the most recent version of Daminion today!**
 
 ---
-**Last updated:** 2026-09-20 12:11:42 UTC
+**Last updated:** 2026-09-20 16:44:06 UTC
